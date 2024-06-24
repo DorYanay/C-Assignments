@@ -7,16 +7,16 @@ Additionally, it aims to develop essential skills including working in Linux env
 
 ## Assignments:
 
-- **Assignment 1: [IO and libraries](https://github.com/DorYanay/C-Assignments/tree/main/IO%26Libraries)**
+- **Assignment 1: [IO and libraries](https://github.com/DorYanay/C-Assignments/tree/main/IO_and_Libraries)**
    - Description: Develop a C library that provides users with essential functions for classifying numbers.
 
-- **Assignment 2: [Loops and Arrays](https://github.com/DorYanay/C-Assignments/tree/main/Loops%26Arrays)**
+- **Assignment 2: [Loops and Arrays](https://github.com/DorYanay/C-Assignments/tree/main/Loops_and_Arrays)**
    - Description: Implement a C program that represents an undirected graph using a matrix and performs various operations.
 
-- **Assignment 3:  [Arrays and Strings](https://github.com/DorYanay/C-Assignments/tree/main/Arrays%26Strings)**
+- **Assignment 3:  [Arrays and Strings](https://github.com/DorYanay/C-Assignments/tree/main/Arrays_and_Strings)**
    - Description: String functions and array manipulation.
 
-- **Assignment 4: [Graphs and Dynamic Allocations](https://github.com/DorYanay/C-Assignments/tree/main/Graphs%20and%20Dynamic%20Allocations)**
+- **Assignment 4: [Graphs and Dynamic Allocations](https://github.com/DorYanay/C-Assignments/tree/main/Graphs_and_Dynamic_Allocations)**
    - Description: Emphasize precise memory allocations while working with and implementing unidirectional weighted graphs.
 
 ## Description
